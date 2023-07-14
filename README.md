@@ -86,3 +86,7 @@ As a business I want:
 <a name="#credits"></a>
 
 ## Credits
+
+### sarah.jpeg
+
+Image from (https://www.thebmc.co.uk/indoor-bouldering-the-lowdown) under the Creative Commons Licence.
