@@ -1,39 +1,88 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Roc Bloc
 
-Welcome,
+## Table of Contents
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+1. [UX](#ux)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+   - [Project Goals](#project-goals)
+   - [Business Goals](#business-goals)
+   - [User Stories](#user-stories)
+   - [Wireframes](#wireframes)
 
-## Codeanywhere Reminders
+2. [Testing](#testing)
+3. [Deployment](#deployment)
+4. [Credits](#credits)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+<a name="#ux"></a>
 
-`python3 -m http.server`
+## UX
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+<a name="#project-goals"></a>
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+### Project Goals
 
-`http_server`
+The site's users are gym members and potential members, who want to know more about the gym and its procedures.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+<a name="#business-goals"></a>
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Business Goals
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+The gym is interested in attracting and retaining members.
 
-To log into the Heroku toolbelt CLI:
+<a name="#user-stories"></a>
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### User Stories
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+As a user I want:
 
----
+1. To see what services the business offers
+2. To book and pay for the services offered
+3. To to stay up to date with changes to the business's offerings
+4. To contact a member of the business team
 
-Happy coding!
+As a business I want:
+
+1. To showcase the business's offerings
+2. To allow customers to book and pay for the services offered
+3. To allow customers to sign up to our mailing list
+4. To provide a point of contact for customers
+
+<a name="#wireframes"></a>
+
+### Wireframes
+
+#### Site Map
+
+![Site Map](documentation/images/site-map.png)
+
+#### Home
+
+![Home](documentation/images/home.png)
+
+#### Book a Climb
+
+![Book a Climb](documentation/images/book-a-climb.png)
+
+#### Membership
+
+![Membership](documentation/images/membership.png)
+
+#### Classes
+
+![Classes](documentation/images/classes.png)
+
+#### About Us
+
+![About Us](documentation/images/about-us.png)
+
+<a name="#testing"></a>
+
+## Testing
+
+<a name="#deployment"></a>
+
+## Deployment
+
+<a name="#credits"></a>
+
+## Credits
