@@ -44,50 +44,76 @@
 
     <main>
         <section id="header" class="border-bottom">
-            <h1>Become a Member and Save</h1>
-            <h2>Membership for less than the price of 3 pay-as-you-go climbs</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna
-                aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis
-                aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                Excepteur sint
-                occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <h2>Only £25.99 per month!</h2>
+            <div class="row">
+                <div class="col">
+                    <h1>Become a Member and Save</h1>
+                    <h2>Membership for less than the price of 3 pay-as-you-go climbs</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et
+                        dolore magna
+                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+                        commodo
+                        consequat. Duis
+                        aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                        pariatur.
+                        Excepteur sint
+                        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    </p>
+                </div>
+                <div class="col">
+                    <img src="assets/images/climber.jpg" alt="A Woman Climbing a Bouldering Wall"
+                        class="rounded img-fluid">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <h2>Only £25.99 per month!</h2>
+                </div>
+                <div class="col">
+                    <h2>Classes are free for members!</h2>
+                </div>
+            </div>
         </section>
 
         <section id="membership-form" class="border-bottom">
-            <form method="post" action="https://formdump.codeinstitute.net">
-                <div class="row mb-3">
-                    <div class="col">
-                        <input type="text" class="form-control" id="first-name" name="first-name"
-                            placeholder="First Name" required>
-                    </div>
-                    <div class="col">
-                        <input type="text" class="form-control" id="last-name" name="last-name" placeholder="Last Name"
-                            required>
-                    </div>
+            <div class="row">
+                <div class="col">
+                    <img src="assets/images/group.jpeg" alt="A Group of Climbers" class="rounded img-fluid">
                 </div>
-                <div class="row mb-3">
-                    <div class="col">
-                        <input type="email" class="form-control" id="email" name="email" placeholder="Email Address"
-                            required>
-                    </div>
+                <div class="col">
+                    <form method="post" action="https://formdump.codeinstitute.net">
+                        <div class="row mb-3">
+                            <div class="col">
+                                <input type="text" class="form-control" id="first-name" name="first-name"
+                                    placeholder="First Name" required>
+                            </div>
+                            <div class="col">
+                                <input type="text" class="form-control" id="last-name" name="last-name"
+                                    placeholder="Last Name" required>
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col">
+                                <input type="email" class="form-control" id="email" name="email"
+                                    placeholder="Email Address" required>
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-lg-3 col-md-2 col-form-label">
+                                <label for="dob">Date of Birth</label>
+                            </div>
+                            <div class="col-lg-9 col-md-10">
+                                <input type="date" class="form-control" id="dob" name="dob" required>
+                            </div>
+                        </div>
+                        <div class="row text-end">
+                            <div class="col">
+                                <input type="submit" value="Become a Member" class="btn btn-primary">
+                            </div>
+                        </div>
+                    </form>
                 </div>
-                <div class="row mb-3">
-                    <div class="col-lg-3 col-md-2 col-form-label">
-                        <label for="dob">Date of Birth</label>
-                    </div>
-                    <div class="col-lg-9 col-md-10">
-                        <input type="date" class="form-control" id="dob" name="dob" required>
-                    </div>
-                </div>
-                <div class="row text-end">
-                    <div class="col">
-                        <input type="submit" value="Become a Member" class="btn btn-primary">
-                    </div>
-                </div>
-            </form>
+            </div>
         </section>
 
         <section id="sign-up" class="border-bottom text-center">
