@@ -110,3 +110,7 @@ Image from (https://www.shutterstock.com/image-photo/children-climbing-gym-11703
 ### coach.jpg
 
 Image from (https://www.shutterstock.com/image-photo/rock-climbers-climbing-gym-young-woman-1147315010) downloaded from Shutterstock under licence.
+
+### climber2.jpg
+
+Image from (https://www.shutterstock.com/image-photo/couple-athletes-climber-moving-on-steep-1640478094) downloaded from Shutterstock under licence.
