@@ -91,10 +91,22 @@ As a business I want:
 
 Image from (https://www.thebmc.co.uk/indoor-bouldering-the-lowdown) under the Creative Commons Licence.
 
-### climber.jpg
-
-Image from (https://www.istockphoto.com/photo/woman-climbing-up-on-practice-wall-gm530731783-54688984) under the Creative Commons Licence.
-
 ### group.jpeg
 
 Image from (https://www.pexels.com/photo/group-climbers-posing-together-7591300/) under the Creative Commons Licence.
+
+### climber.jpg
+
+Image from (https://www.shutterstock.com/image-photo/climber-boulder-gym-man-climbing-bouldering-1474754396) downloaded from Shutterstock under licence.
+
+### father-daughter.jpg
+
+Image from (https://www.shutterstock.com/image-photo/father-his-daughter-rock-climbers-training-2175434795) downloaded from Shutterstock under licence.
+
+### class.jpg
+
+Image from (https://www.shutterstock.com/image-photo/children-climbing-gym-1170325528) downloaded from Shutterstock under licence.
+
+### coach.jpg
+
+Image from (https://www.shutterstock.com/image-photo/rock-climbers-climbing-gym-young-woman-1147315010) downloaded from Shutterstock under licence.
