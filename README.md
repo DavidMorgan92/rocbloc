@@ -90,3 +90,11 @@ As a business I want:
 ### sarah.jpeg
 
 Image from (https://www.thebmc.co.uk/indoor-bouldering-the-lowdown) under the Creative Commons Licence.
+
+### climber.jpg
+
+Image from (https://www.istockphoto.com/photo/woman-climbing-up-on-practice-wall-gm530731783-54688984) under the Creative Commons Licence.
+
+### group.jpeg
+
+Image from (https://www.pexels.com/photo/group-climbers-posing-together-7591300/) under the Creative Commons Licence.
