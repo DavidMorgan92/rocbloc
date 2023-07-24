@@ -79,6 +79,14 @@ As a business I want:
 
 ## Testing
 
+### Lighthouse Scores
+
+- Home - (documentation/lighthouse/index.pdf)
+- Book - (documentation/lighthouse/book.pdf)
+- Membership - (documentation/lighthouse/membership.pdf)
+- Classes - (documentation/lighthouse/classes.pdf)
+- About - (documentation/lighthouse/about.pdf)
+
 <a name="#deployment"></a>
 
 ## Deployment
