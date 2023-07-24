@@ -81,11 +81,11 @@ As a business I want:
 
 ### Lighthouse Scores
 
-- Home - (documentation/lighthouse/index.pdf)
-- Book - (documentation/lighthouse/book.pdf)
-- Membership - (documentation/lighthouse/membership.pdf)
-- Classes - (documentation/lighthouse/classes.pdf)
-- About - (documentation/lighthouse/about.pdf)
+- ![Home](documentation/lighthouse/index.pdf)
+- ![Book](documentation/lighthouse/book.pdf)
+- ![Membership](documentation/lighthouse/membership.pdf)
+- ![Classes](documentation/lighthouse/classes.pdf)
+- ![About](documentation/lighthouse/about.pdf)
 
 <a name="#deployment"></a>
 
@@ -97,28 +97,28 @@ As a business I want:
 
 ### sarah.jpeg
 
-Image from (https://www.thebmc.co.uk/indoor-bouldering-the-lowdown) under the Creative Commons Licence.
+Image from https://www.thebmc.co.uk/indoor-bouldering-the-lowdown under the Creative Commons Licence.
 
 ### group.jpeg
 
-Image from (https://www.pexels.com/photo/group-climbers-posing-together-7591300/) under the Creative Commons Licence.
+Image from https://www.pexels.com/photo/group-climbers-posing-together-7591300 under the Creative Commons Licence.
 
 ### climber.jpg
 
-Image from (https://www.shutterstock.com/image-photo/climber-boulder-gym-man-climbing-bouldering-1474754396) downloaded from Shutterstock under licence.
+Image from https://www.shutterstock.com/image-photo/climber-boulder-gym-man-climbing-bouldering-1474754396 downloaded from Shutterstock under licence.
 
 ### father-daughter.jpg
 
-Image from (https://www.shutterstock.com/image-photo/father-his-daughter-rock-climbers-training-2175434795) downloaded from Shutterstock under licence.
+Image from https://www.shutterstock.com/image-photo/father-his-daughter-rock-climbers-training-2175434795 downloaded from Shutterstock under licence.
 
 ### class.jpg
 
-Image from (https://www.shutterstock.com/image-photo/children-climbing-gym-1170325528) downloaded from Shutterstock under licence.
+Image from https://www.shutterstock.com/image-photo/children-climbing-gym-1170325528 downloaded from Shutterstock under licence.
 
 ### coach.jpg
 
-Image from (https://www.shutterstock.com/image-photo/rock-climbers-climbing-gym-young-woman-1147315010) downloaded from Shutterstock under licence.
+Image from https://www.shutterstock.com/image-photo/rock-climbers-climbing-gym-young-woman-1147315010 downloaded from Shutterstock under licence.
 
 ### climber2.jpg
 
-Image from (https://www.shutterstock.com/image-photo/couple-athletes-climber-moving-on-steep-1640478094) downloaded from Shutterstock under licence.
+Image from https://www.shutterstock.com/image-photo/couple-athletes-climber-moving-on-steep-1640478094 downloaded from Shutterstock under licence.
