@@ -2,3 +2,33 @@ section {
     padding-top: 60px;
     padding-bottom: 60px;
 }
+
+body {
+    font-family: 'Kanit', sans-serif;
+    background-color: #F1FAEE;
+}
+
+.btn.btn-primary {
+    background-color: #E63946;
+    border-color: #b12b36;
+}
+
+.btn.btn-primary:hover {
+    background-color: #b12b36;
+    border-color: #b12b36;
+}
+
+.btn.btn-primary:active {
+    background-color: #852029;
+    border-color: #b12b36;
+}
+
+.form-check-input:checked {
+    background-color: #E63946;
+    border-color: #b12b36;
+}
+
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 .25rem rgba(230, 57, 70, .25);
+}
