@@ -9,9 +9,10 @@
    - [User Stories](#user-stories)
    - [Wireframes](#wireframes)
 
-2. [Testing](#testing)
-3. [Deployment](#deployment)
-4. [Credits](#credits)
+2. [Design](#design)
+3. [Testing](#testing)
+4. [Deployment](#deployment)
+5. [Credits](#credits)
 
 <a name="#ux"></a>
 
@@ -75,17 +76,25 @@ As a business I want:
 
 ![About Us](documentation/images/about-us.png)
 
+<a name="#design"></a>
+
+## Design
+
+### Colour Palette
+
+[This colour palette](https://coolors.co/palette/e63946-f1faee-a8dadc-457b9d-1d3557) was chosen for its strong red and selection of contrasting blues.
+
 <a name="#testing"></a>
 
 ## Testing
 
 ### Lighthouse Scores
 
-- ![Home](documentation/lighthouse/index.pdf)
-- ![Book](documentation/lighthouse/book.pdf)
-- ![Membership](documentation/lighthouse/membership.pdf)
-- ![Classes](documentation/lighthouse/classes.pdf)
-- ![About](documentation/lighthouse/about.pdf)
+- [Home](documentation/lighthouse/index.pdf)
+- [Book](documentation/lighthouse/book.pdf)
+- [Membership](documentation/lighthouse/membership.pdf)
+- [Classes](documentation/lighthouse/classes.pdf)
+- [About](documentation/lighthouse/about.pdf)
 
 <a name="#deployment"></a>
 
