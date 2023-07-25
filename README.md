@@ -100,6 +100,20 @@ As a business I want:
 
 ## Deployment
 
+This project was developed using the [Codeanywhere IDE](https://app.codeanywhere.com/), commited to git and pushed to GitHub using the built in function within Codeanywhere.
+
+To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/DavidMorgan92/rocbloc) the following steps were taken:
+
+1. Log into GitHub
+2. From the list of repositories on the screen, select **DavidMorgan92/rocbloc**
+3. From the menu items near the top of the page, select **Settings**
+4. Select the **Pages** section
+5. Under **Branch** click the drop-down menu labelled **None** and select **main** and click **Save**
+6. Upon clicking **Save** the page is automatically refreshed and the website is now deployed
+7. Go back to the main page of the repository
+8. On the right, under **Environments**, an environment called **github-pages** should appear as active
+9. Click this link and then click **View deployment** to see the website
+
 <a name="#credits"></a>
 
 ## Credits
