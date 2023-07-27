@@ -145,3 +145,7 @@ Image from https://www.shutterstock.com/image-photo/rock-climbers-climbing-gym-y
 ### climber2.jpg
 
 Image from https://www.shutterstock.com/image-photo/couple-athletes-climber-moving-on-steep-1640478094 downloaded from Shutterstock under licence.
+
+### favicon.png
+
+Image from https://icons8.com/icons/set/bouldering under licence https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8
