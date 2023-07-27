@@ -82,6 +82,10 @@ As a business I want:
 
 ## Design
 
+### Structure
+
+Overall website structure and design was inspired by https://www.theclimbinghangar.com/
+
 ### Colour Palette
 
 [This colour palette](https://coolors.co/palette/e63946-f1faee-a8dadc-457b9d-1d3557) was chosen for its strong red and selection of contrasting blues.
