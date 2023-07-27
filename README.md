@@ -1,5 +1,7 @@
 # Roc Bloc
 
+![Am I Responsive](documentation/images/amiresponsive.png)
+
 ## Table of Contents
 
 1. [UX](#ux)
