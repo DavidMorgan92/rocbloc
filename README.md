@@ -13,9 +13,17 @@
    - [Development Planes](#development-planes)
 
 2. [Design](#design)
+
+   - [Structure](#structure)
+   - [Colour Palette](#colour-palette)
+   - [Fonts](#fonts)
+   - [Imagery](#imagery)
+
 3. [Testing](#testing)
+
+   - [Lighthouse Scores](#lighthouse-scores)
+
 4. [Deployment](#deployment)
-5. [Credits](#credits)
 
 <a name="#ux"></a>
 
@@ -155,51 +163,27 @@ Wireframes were made to showcase the appearance of the site pages while keeping 
 
 ## Design
 
+<a name="#structure"></a>
+
 ### Structure
 
 Overall website structure and design was inspired by https://www.theclimbinghangar.com/
+
+<a name="#colour-palette"></a>
 
 ### Colour Palette
 
 [This colour palette](https://coolors.co/palette/e63946-f1faee-a8dadc-457b9d-1d3557) was chosen for its strong red and selection of contrasting blues.
 
+<a name="#fonts"></a>
+
 ### Fonts
 
 The entire website uses the [Kanit regular 400](https://fonts.google.com/specimen/Kanit) font from Google Fonts
 
-<a name="#testing"></a>
+<a name="#imagery"></a>
 
-## Testing
-
-### Lighthouse Scores
-
-- [Home](documentation/lighthouse/index.pdf)
-- [Book](documentation/lighthouse/book.pdf)
-- [Membership](documentation/lighthouse/membership.pdf)
-- [Classes](documentation/lighthouse/classes.pdf)
-- [About](documentation/lighthouse/about.pdf)
-
-<a name="#deployment"></a>
-
-## Deployment
-
-This project was developed using the [Codeanywhere IDE](https://app.codeanywhere.com/), commited to git and pushed to GitHub using the built in function within Codeanywhere.
-
-To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/DavidMorgan92/rocbloc) the following steps were taken:
-
-1. Log into GitHub
-2. From the list of repositories on the screen, select **DavidMorgan92/rocbloc**
-3. From the menu items near the top of the page, select **Settings**
-4. Select the **Pages** section
-5. Under **Branch** click the drop-down menu labelled **None** and select **main** and click **Save**
-6. Upon clicking **Save** the page is automatically refreshed and the website is now deployed
-7. Go back to the main page of the repository
-8. On the right, under **Environments**, an environment called **github-pages** should appear as active
-9. Click this link and then click **View deployment** to see the website
-
-<a name="#credits"></a>
-
-## Credits
+### Imagery
 
 ### sarah.jpeg
 
@@ -232,3 +216,35 @@ Image from https://www.shutterstock.com/image-photo/couple-athletes-climber-movi
 ### favicon.png
 
 Image from https://icons8.com/icons/set/bouldering under licence https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8
+
+<a name="#testing"></a>
+
+## Testing
+
+<a name="#lighthouse-scores"></a>
+
+### Lighthouse Scores
+
+- [Home](documentation/lighthouse/index.pdf)
+- [Book](documentation/lighthouse/book.pdf)
+- [Membership](documentation/lighthouse/membership.pdf)
+- [Classes](documentation/lighthouse/classes.pdf)
+- [About](documentation/lighthouse/about.pdf)
+
+<a name="#deployment"></a>
+
+## Deployment
+
+This project was developed using the [Codeanywhere IDE](https://app.codeanywhere.com/), commited to git and pushed to GitHub using the built in function within Codeanywhere.
+
+To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/DavidMorgan92/rocbloc) the following steps were taken:
+
+1. Log into GitHub
+2. From the list of repositories on the screen, select **DavidMorgan92/rocbloc**
+3. From the menu items near the top of the page, select **Settings**
+4. Select the **Pages** section
+5. Under **Branch** click the drop-down menu labelled **None** and select **main** and click **Save**
+6. Upon clicking **Save** the page is automatically refreshed and the website is now deployed
+7. Go back to the main page of the repository
+8. On the right, under **Environments**, an environment called **github-pages** should appear as active
+9. Click this link and then click **View deployment** to see the website
