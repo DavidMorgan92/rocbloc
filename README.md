@@ -6,9 +6,11 @@
 
 1. [UX](#ux)
 
+   - [Ideal User Demographic](#ideal-user-demographic)
    - [Project Goals](#project-goals)
    - [Business Goals](#business-goals)
    - [User Stories](#user-stories)
+   - [Development Planes](#development-planes)
    - [Wireframes](#wireframes)
 
 2. [Design](#design)
@@ -19,6 +21,15 @@
 <a name="#ux"></a>
 
 ## UX
+
+<a name="#ideal-user-demographic"></a>
+
+### Ideal User Demographic
+
+The ideal user for this website is:
+
+- A new customer
+- A current customer
 
 <a name="#project-goals"></a>
 
@@ -36,7 +47,7 @@ The gym is interested in attracting and retaining members.
 
 ### User Stories
 
-As a user I want:
+As a new or current user I want:
 
 1. To see what services the business offers
 2. To book and pay for the services offered
@@ -49,6 +60,57 @@ As a business I want:
 2. To allow customers to book and pay for the services offered
 3. To allow customers to sign up to our mailing list
 4. To provide a point of contact for customers
+
+<a name="development-planes"></a>
+
+### Development Planes
+
+#### Strategy
+
+Strategy incorporates user needs as well as product objectives. This website will focus on the following target audience, divided into three main categories:
+
+- Roles:
+  - Current users
+  - New users
+- Demographic:
+  - All ages
+  - UK residents
+  - Beginner to experienced climbers
+- Psychographic:
+  - Lifestyles:
+    - Active
+  - Personality/Attitudes:
+    - Outgoing
+  - Values:
+    - Sense of community
+
+The websites needs to enable the user to:
+
+- See information about services offered:
+  - Pay-as-you-go climbing sessions
+  - Membership
+  - Classes
+  - Coaching
+- Book a climbing session
+- Sign up for the newsletter
+- Contact a member of staff
+
+The website needs to enable the site manager to:
+
+- Gather information about booked climbing sessions
+- Gather information about membership requests
+- Gather information about newsletter sign-up requests
+- Gather information about contact requests
+
+![Strategy Table](documentation/images/strategy-table.jpg)
+
+#### Scope
+
+
+
+#### Structure
+
+#### Skeleton
 
 <a name="#wireframes"></a>
 
