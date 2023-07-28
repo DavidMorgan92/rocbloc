@@ -11,7 +11,6 @@
    - [Business Goals](#business-goals)
    - [User Stories](#user-stories)
    - [Development Planes](#development-planes)
-   - [Wireframes](#wireframes)
 
 2. [Design](#design)
 3. [Testing](#testing)
@@ -124,33 +123,31 @@ The scope plane is about defining requirements based on the goals established on
 
 #### Structure
 
-#### Skeleton
-
-<a name="#wireframes"></a>
-
-### Wireframes
-
-#### Site Map
+The information above was then organized in a hierarchical tree structure, a site map, showing how users can navigate through the site with ease and efficiency, with the following results:
 
 ![Site Map](documentation/images/site-map.png)
 
-#### Home
+#### Skeleton
+
+Wireframes were made to showcase the appearance of the site pages while keeping a positive user experience in mind. The wireframes were created using a desktop version of Balsamiq.
+
+##### Home
 
 ![Home](documentation/images/home.png)
 
-#### Book a Climb
+##### Book a Climb
 
 ![Book a Climb](documentation/images/book-a-climb.png)
 
-#### Membership
+##### Membership
 
 ![Membership](documentation/images/membership.png)
 
-#### Classes
+##### Classes
 
 ![Classes](documentation/images/classes.png)
 
-#### About Us
+##### About Us
 
 ![About Us](documentation/images/about-us.png)
 
