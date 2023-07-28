@@ -19,11 +19,20 @@
    - [Fonts](#fonts)
    - [Imagery](#imagery)
 
-3. [Testing](#testing)
+3. [Features](#features)
+
+   - [Design Features](#design-features)
+
+4. [Tecnhologies Used](#tecnhologies-used)
+
+   - [Languages Used](#languages-used)
+   - [Frameworks, Libraries & Programs Used](#frameworks-used)
+
+5. [Testing](#testing)
 
    - [Lighthouse Scores](#lighthouse-scores)
 
-4. [Deployment](#deployment)
+6. [Deployment](#deployment)
 
 <a name="#ux"></a>
 
@@ -218,6 +227,54 @@ Image from https://www.shutterstock.com/image-photo/couple-athletes-climber-movi
 Image from https://icons8.com/icons/set/bouldering under licence https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8
 
 <a name="#testing"></a>
+
+<a name="#features"></a>
+
+## Features
+
+<a name="design-features"></a>
+
+### Design Features
+
+Each page within the site has a consistent and responsive navigation system. The details of features on the site are detailed below.
+
+- There is a navigation bar at the top of the page. It collapses to a hamburger menu on tablet- and mobile-sized screens. When clicked or tapped it opens a dropdown menu which shows the navigation options.
+
+#### Home Page
+
+<a name="#technologies-used"></a>
+
+## Technologies Used
+
+<a name="languages-used"></a>
+
+### Languages Used
+
+- HTML5
+- CSS3
+
+<a name="frameworks-used"></a>
+
+### Frameworks, Libraries & Programs Used
+
+- [Google Fonts](https://fonts.google.com/)
+  - Google Fonts was used to provide the Kanit font used in the website
+- [Bootstrap](https://getbootstrap.com/)
+  - Bootstrap 5.2.3 was used to provide styling and structural classes to the website
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
+  - Bootstrap icons 1.10.5 was used to provide icons
+- [GitHub](https://github.com/)
+  - GitHub was used to store the project after pushing
+- [Codeanywhere](https://codeanywhere.com/)
+  - Codeanywhere was used for writing code, committing, and then pushing to GitHub
+- [Balsamiq](https://balsamiq.com/)
+  - Balsamiq was used to create the wireframes during the design phase of the project
+- [Am I Responsive?](https://ui.dev/amiresponsive)
+  - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used
+- [Shutterstock](https://www.shutterstock.com/)
+  - Shutterstock was used to provide imagery for the website
+- [Icons8](https://icons8.com/)
+  - The website's favicon was provided by Icons8
 
 ## Testing
 
