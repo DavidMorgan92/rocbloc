@@ -106,7 +106,21 @@ The website needs to enable the site manager to:
 
 #### Scope
 
+The scope plane is about defining requirements based on the goals established on the strategy plane. Using the information in the strategy plane, the identified required features have been broken into the following two categories.
 
+- Content requirements:
+  - The user will be looking for:
+    - Prices for climbing
+    - Prices for membership
+    - Information about the company
+    - Information about classes
+    - Information about coaching
+- Functionality requirements:
+  - The user will be able to:
+    - Request membership
+    - Book a pay-as-you-go climb
+    - Contact a member of staff
+    - Sign up for the newsletter
 
 #### Structure
 
