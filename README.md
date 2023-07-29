@@ -226,8 +226,6 @@ Image from https://www.shutterstock.com/image-photo/couple-athletes-climber-movi
 
 Image from https://icons8.com/icons/set/bouldering under licence https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8
 
-<a name="#testing"></a>
-
 <a name="#features"></a>
 
 ## Features
@@ -239,8 +237,45 @@ Image from https://icons8.com/icons/set/bouldering under licence https://interco
 Each page within the site has a consistent and responsive navigation system. The details of features on the site are detailed below.
 
 - There is a navigation bar at the top of the page. It collapses to a hamburger menu on tablet- and mobile-sized screens. When clicked or tapped it opens a dropdown menu which shows the navigation options.
+- Each page consists of a number of sections arrayed vertically with a visual separator between them. Content within sections rearranges to suit the available screen width.
+- Each page has a section in common at the bottom of the page. This contains the newsletter sign-up form. The form displays as an inline form on wide screens but stacks vertically on smaller screens.
 
-#### Home Page
+#### Home
+
+The home page consists of the following sections:
+
+- _Welcome text_ - This section provides a simple statement of the name of the company and what it offers. It also has two call-to-action buttons, one for booking a climb and one for booking a class.
+- _Sign-up CTA_ - A call-to-action button which scrolls the page to the newsletter sign-up form at the bottom of the page.
+- _Customer testimonial_ - A customer testimonial giving their positive opinion of the company's services.
+
+#### Book a Climb
+
+The booking page consists of the following sections:
+
+- _Header_ - This section briefly indicates the purpose of the page and gives the price of a climbing session. It also contains a call-to-action button that invites the user to become a member; it takes the user to the membership page. The two headers at the top of this section are displayed on the same line on wide screens but stack vertically on smaller screens.
+- _Booking form_ - The booking form contains two parts that are arranged in two columns on wide screens and in one column on narrower screens. The first part is to collect information about the user including name, email address, date of birth and level of climbing experience. The second part is for the user to input their desired session date and time.
+
+#### Membership
+
+The membership page consists of the following sections:
+
+- _Header_ - This section breifly describes the price and features of membership. It displays in two columns on wide screens or one column on narrow screens.
+- _Membership form_ - This section contains a form which allows a user to enter their personal details to become a member and an image for decoration. The image and form display in two columns on wide screens but stack vertically on narrower screens. On very narrow screens the controls of the form itself will stack vertically.
+
+#### Classes
+
+The classes page consists of the following sections:
+
+- _Header_ - This section briefly describes the classes and coaching offered by the company. It also contains three call-to-action buttons: One scrolls the page down to the section describing classes; another scrolls the page down to the section describing 1-2-1 coaching; and the third takes the user to the membership page. There is also an image for decoration. The image and the information display in two columns on wide screens but stack vertically on narrower screens. On very narrow screens the buttons in the information section stack vertically.
+- _Classes and coaching information_ - This section briefly describes the classes and coaching on offer and gives the user buttons to take them to further information. This further information is not yet implemented due to time constraints. The decoration images are displayed at the bottom of this section on narrow screens, and one image will be omitted on very narrow screens.
+
+#### About Us
+
+The about page consists of the following sections:
+
+- _Header_ - This section provides some information about the company and people behind it. It also contains an image for decoration. The image and text display in two columns on wide screens but stack vertically on narrow screens.
+- _Contact form_ - This section contains a form allowing a user to send a message to the company's staff. The form's controls display in two columns on wide screens and one column on narrow screens.
+- _Media attribution_ - This section displays attribution for media used in the website to comply with the usage terms of the media's licence agreement.
 
 <a name="#technologies-used"></a>
 
@@ -275,6 +310,8 @@ Each page within the site has a consistent and responsive navigation system. The
   - Shutterstock was used to provide imagery for the website
 - [Icons8](https://icons8.com/)
   - The website's favicon was provided by Icons8
+
+<a name="#testing"></a>
 
 ## Testing
 
