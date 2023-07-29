@@ -22,6 +22,7 @@
 3. [Features](#features)
 
    - [Design Features](#design-features)
+   - [Features Yet To Be Implemented](#features-to-be-implemented)
 
 4. [Tecnhologies Used](#tecnhologies-used)
 
@@ -276,6 +277,19 @@ The about page consists of the following sections:
 - _Header_ - This section provides some information about the company and people behind it. It also contains an image for decoration. The image and text display in two columns on wide screens but stack vertically on narrow screens.
 - _Contact form_ - This section contains a form allowing a user to send a message to the company's staff. The form's controls display in two columns on wide screens and one column on narrow screens.
 - _Media attribution_ - This section displays attribution for media used in the website to comply with the usage terms of the media's licence agreement.
+
+<a name="#features-to-be-implemented"></a>
+
+### Features Yet To Be Implemented
+
+Below is a list of features that are not currently implemented due to time constraints.
+
+- Booking form
+  - Don't allow the user to select dates and times in the past
+  - Don't allow the user to select dates and times that are already booked
+- Classes and coaching
+  - Implement pages for further information on classes and coaching
+  - Implement forms to allow the user to sign up for classes and coaching
 
 <a name="#technologies-used"></a>
 
