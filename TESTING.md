@@ -7,7 +7,7 @@
 3. [Automated Testing](#automated-testing)
 
 - [Lighthouse Scores](#lighthouse-scores)
-- [Code Validation](#code-validaiton)
+- [Code Validation](#code-validation)
 
 <a name="#testing-user-stores"></a>
 
