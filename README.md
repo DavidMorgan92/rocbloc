@@ -24,7 +24,7 @@
    - [Design Features](#design-features)
    - [Features Yet To Be Implemented](#features-to-implement)
 
-4. [Tecnhologies Used](#technologies-used)
+4. [Technologies Used](#technologies-used)
 
    - [Languages Used](#languages-used)
    - [Frameworks, Libraries & Programs Used](#frameworks-used)

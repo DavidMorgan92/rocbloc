@@ -6,8 +6,8 @@
 2. [Manual Testing](#manual-testing)
 3. [Automated Testing](#automated-testing)
 
-- [Lighthouse Scores](#lighthouse-scores)
-- [Code Validation](#code-validation)
+   - [Lighthouse Scores](#lighthouse-scores)
+   - [Code Validation](#code-validation)
 
 <a name="#testing-user-stores"></a>
 
