@@ -22,9 +22,9 @@
 3. [Features](#features)
 
    - [Design Features](#design-features)
-   - [Features Yet To Be Implemented](#features-to-be-implemented)
+   - [Features Yet To Be Implemented](#features-to-implement)
 
-4. [Tecnhologies Used](#tecnhologies-used)
+4. [Tecnhologies Used](#technologies-used)
 
    - [Languages Used](#languages-used)
    - [Frameworks, Libraries & Programs Used](#frameworks-used)
@@ -78,7 +78,7 @@ As a business I want:
 3. To allow customers to sign up to our mailing list
 4. To provide a point of contact for customers
 
-<a name="development-planes"></a>
+<a name="#development-planes"></a>
 
 ### Development Planes
 
@@ -231,7 +231,7 @@ Image from https://icons8.com/icons/set/bouldering under licence https://interco
 
 ## Features
 
-<a name="design-features"></a>
+<a name="#design-features"></a>
 
 ### Design Features
 
@@ -278,7 +278,7 @@ The about page consists of the following sections:
 - _Contact form_ - This section contains a form allowing a user to send a message to the company's staff. The form's controls display in two columns on wide screens and one column on narrow screens.
 - _Media attribution_ - This section displays attribution for media used in the website to comply with the usage terms of the media's licence agreement.
 
-<a name="#features-to-be-implemented"></a>
+<a name="#features-to-implement"></a>
 
 ### Features Yet To Be Implemented
 
@@ -295,14 +295,14 @@ Below is a list of features that are not currently implemented due to time const
 
 ## Technologies Used
 
-<a name="languages-used"></a>
+<a name="#languages-used"></a>
 
 ### Languages Used
 
 - HTML5
 - CSS3
 
-<a name="frameworks-used"></a>
+<a name="#frameworks-used"></a>
 
 ### Frameworks, Libraries & Programs Used
 
