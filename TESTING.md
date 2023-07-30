@@ -38,26 +38,9 @@
 The [W3C HTML validator](https://validator.w3.org/) was used to validate the HTML.
 The [W3C CSS validator](https://jigsaw.w3.org/css-validator/) was used to validate the CSS.
 
-#### styles.css
-
-![styles.css](documentation/validation/styles.css.pdf)
-
-#### index.html
-
-![index.html](documentation/validation/index.html.pdf)
-
-#### book.html
-
-![book.html](documentation/validation/book.html.pdf)
-
-#### classes.html
-
-![classes.html](documentation/validation/classes.html.pdf)
-
-#### membership.html
-
-![membership.html](documentation/validation/membership.html.pdf)
-
-#### about.html
-
-![about.html](documentation/validation/about.html.pdf)
+- [styles.css](documentation/validation/styles.css.pdf)
+- [index.html](documentation/validation/index.html.pdf)
+- [book.html](documentation/validation/book.html.pdf)
+- [classes.html](documentation/validation/classes.html.pdf)
+- [membership.html](documentation/validation/membership.html.pdf)
+- [about.html](documentation/validation/about.html.pdf)
