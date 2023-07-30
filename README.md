@@ -31,7 +31,7 @@
 
 5. [Testing](#testing)
 
-   - [Lighthouse Scores](#lighthouse-scores)
+   - [TESTING.md](TESTING.md)
 
 6. [Deployment](#deployment)
 
@@ -329,15 +329,7 @@ Below is a list of features that are not currently implemented due to time const
 
 ## Testing
 
-<a name="#lighthouse-scores"></a>
-
-### Lighthouse Scores
-
-- [Home](documentation/lighthouse/index.pdf)
-- [Book](documentation/lighthouse/book.pdf)
-- [Membership](documentation/lighthouse/membership.pdf)
-- [Classes](documentation/lighthouse/classes.pdf)
-- [About](documentation/lighthouse/about.pdf)
+See the [testing file](TESTING.md) for testing information.
 
 <a name="#deployment"></a>
 
