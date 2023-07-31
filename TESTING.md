@@ -4,6 +4,13 @@
 
 1. [Testing User Stories](#testing-user-stories)
 2. [Manual Testing](#manual-testing)
+
+   - [Home](#home)
+   - [Book a Climb](#book)
+   - [Membership](#membership)
+   - [Classes](#classes)
+   - [About Us](#about)
+
 3. [Automated Testing](#automated-testing)
 
    - [Lighthouse Scores](#lighthouse-scores)
@@ -57,6 +64,81 @@ As a business I want:
 <a name="#manual-testing"></a>
 
 ## Manual Testing
+
+<a name="#home">
+
+### Home
+
+- The navbar _Home_ link navigates to the home page
+  Before action:
+  ![Before](documentation/testing/home/home-nav/before.jpg)
+  After action:
+  ![After](documentation/testing/home/home-nav/after.jpg)
+- The navbar _Book a Climb_ link navigates to the booking page
+- The navbar _Membership_ link navigates to the membership page
+- The navbar _Classes_ link navigates to the classes page
+- The navbar _About Us_ link navigates to the about page
+- The _Book a Climb_ button navigates to the booking page
+- The _Book a Class_ button navigates to the classes page
+- The _Sign Up_ button scrolls the page to the sign up form
+- The _Sign Up_ form submits to the Code Institute form dump page
+- Responsiveness
+
+<a name="#book">
+
+### Book a Climb
+
+- The navbar _Home_ link navigates to the home page
+- The navbar _Book a Climb_ link navigates to the booking page
+- The navbar _Membership_ link navigates to the membership page
+- The navbar _Classes_ link navigates to the classes page
+- The navbar _About Us_ link navigates to the about page
+- The _Become a Member_ button navigates to the membership page
+- The _Book Now_ form submits to the Code Institute form dump page
+- The _Sign Up_ form submits to the Code Institute form dump page
+- Responsiveness
+
+<a name="#membership">
+
+### Membership
+
+- The navbar _Home_ link navigates to the home page
+- The navbar _Book a Climb_ link navigates to the booking page
+- The navbar _Membership_ link navigates to the membership page
+- The navbar _Classes_ link navigates to the classes page
+- The navbar _About Us_ link navigates to the about page
+- The _Become a Member_ form submits to the Code Institute form dump page
+- The _Sign Up_ form submits to the Code Institute form dump page
+- Responsiveness
+
+<a name="#classes">
+
+### Classes
+
+- The navbar _Home_ link navigates to the home page
+- The navbar _Book a Climb_ link navigates to the booking page
+- The navbar _Membership_ link navigates to the membership page
+- The navbar _Classes_ link navigates to the classes page
+- The navbar _About Us_ link navigates to the about page
+- The _Book a Class_ button scrolls down to the _Classes_ header
+- The _1-2-1 Coaching_ button scrolls down to the _1-2-1 Coaching_ header
+- The first _Find out More_ button scrolls to the top of the page
+- The second _Find out More_ button scrolls to the top of the page
+- The _Sign Up_ form submits to the Code Institute form dump page
+- Responsiveness
+
+<a name="#about">
+
+### About Us
+
+- The navbar _Home_ link navigates to the home page
+- The navbar _Book a Climb_ link navigates to the booking page
+- The navbar _Membership_ link navigates to the membership page
+- The navbar _Classes_ link navigates to the classes page
+- The navbar _About Us_ link navigates to the about page
+- The _Contact Us_ form submits to the Code Institute form dump page
+- The _Sign Up_ form submits to the Code Institute form dump page
+- Responsiveness
 
 <a name="#automated-testing"></a>
 
