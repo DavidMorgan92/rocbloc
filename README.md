@@ -68,7 +68,7 @@ As a new or current user I want:
 
 1. To see what services the business offers
 2. To book and pay for the services offered
-3. To to stay up to date with changes to the business's offerings
+3. To stay up to date with changes to the business's offerings
 4. To contact a member of the business team
 
 As a business I want:
