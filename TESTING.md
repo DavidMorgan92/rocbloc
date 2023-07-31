@@ -70,19 +70,57 @@ As a business I want:
 ### Home
 
 - The navbar _Home_ link navigates to the home page
-  Before action:
-  ![Before](documentation/testing/home/home-nav/before.jpg)
-  After action:
-  ![After](documentation/testing/home/home-nav/after.jpg)
+  - Before action:
+    ![Before](documentation/testing/home/home-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/home/home-nav/after.jpg)
 - The navbar _Book a Climb_ link navigates to the booking page
+  - Before action:
+    ![Before](documentation/testing/home/book-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/home/book-nav/after.jpg)
 - The navbar _Membership_ link navigates to the membership page
+  - Before action:
+    ![Before](documentation/testing/home/membership-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/home/membership-nav/after.jpg)
 - The navbar _Classes_ link navigates to the classes page
+  - Before action:
+    ![Before](documentation/testing/home/classes-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/home/classes-nav/after.jpg)
 - The navbar _About Us_ link navigates to the about page
+  - Before action:
+    ![Before](documentation/testing/home/about-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/home/about-nav/after.jpg)
 - The _Book a Climb_ button navigates to the booking page
+  - Before action:
+    ![Before](documentation/testing/home/book-button/before.jpg)
+  - After action:
+    ![After](documentation/testing/home/book-button/after.jpg)
 - The _Book a Class_ button navigates to the classes page
+  - Before action:
+    ![Before](documentation/testing/home/classes-button/before.jpg)
+  - After action:
+    ![After](documentation/testing/home/classes-button/after.jpg)
 - The _Sign Up_ button scrolls the page to the sign up form
+  - Before action:
+    ![Before](documentation/testing/home/sign-up-button/before.jpg)
+  - After action:
+    ![After](documentation/testing/home/sign-up-button/after.jpg)
 - The _Sign Up_ form submits to the Code Institute form dump page
+  - Before action:
+    ![Before](documentation/testing/home/sign-up-button/before.jpg)
+  - After action:
+    ![After](documentation/testing/home/sign-up-button/after.jpg)
 - Responsiveness
+  - 320px:
+    ![320px](documentation/testing/home/responsiveness/320px.jpg)
+  - 768px:
+    ![768px](documentation/testing/home/responsiveness/768px.jpg)
+  - 1024px:
+    ![1024px](documentation/testing/home/responsiveness/1024px.jpg)
 
 <a name="#book">
 
