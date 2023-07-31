@@ -111,9 +111,9 @@ As a business I want:
     ![After](documentation/testing/home/sign-up-button/after.jpg)
 - The _Sign Up_ form submits to the Code Institute form dump page
   - Before action:
-    ![Before](documentation/testing/home/sign-up-button/before.jpg)
+    ![Before](documentation/testing/home/sign-up-form/before.jpg)
   - After action:
-    ![After](documentation/testing/home/sign-up-button/after.jpg)
+    ![After](documentation/testing/home/sign-up-form/after.jpg)
 - Responsiveness
   - 320px:
     ![320px](documentation/testing/home/responsiveness/320px.jpg)
