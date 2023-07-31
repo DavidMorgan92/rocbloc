@@ -287,9 +287,13 @@ Below is a list of features that are not currently implemented due to time const
 - Booking form
   - Don't allow the user to select dates and times in the past
   - Don't allow the user to select dates and times that are already booked
+  - Accept payment through the website
 - Classes and coaching
   - Implement pages for further information on classes and coaching
   - Implement forms to allow the user to sign up for classes and coaching
+  - Accept payment through the website
+- Membership
+  - Accept payment through the website
 
 <a name="#technologies-used"></a>
 
