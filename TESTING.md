@@ -179,13 +179,47 @@ As a business I want:
 ### Membership
 
 - The navbar _Home_ link navigates to the home page
+  - Before action:
+    ![Before](documentation/testing/membership/home-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/membership/home-nav/after.jpg)
 - The navbar _Book a Climb_ link navigates to the booking page
+  - Before action:
+    ![Before](documentation/testing/membership/book-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/membership/book-nav/after.jpg)
 - The navbar _Membership_ link navigates to the membership page
+  - Before action:
+    ![Before](documentation/testing/membership/membership-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/membership/membership-nav/after.jpg)
 - The navbar _Classes_ link navigates to the classes page
+  - Before action:
+    ![Before](documentation/testing/membership/classes-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/membership/classes-nav/after.jpg)
 - The navbar _About Us_ link navigates to the about page
+  - Before action:
+    ![Before](documentation/testing/membership/about-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/membership/about-nav/after.jpg)
 - The _Become a Member_ form submits to the Code Institute form dump page
+  - Before action:
+    ![Before](documentation/testing/membership/membership-form/before.jpg)
+  - After action:
+    ![After](documentation/testing/membership/membership-form/after.jpg)
 - The _Sign Up_ form submits to the Code Institute form dump page
+  - Before action:
+    ![Before](documentation/testing/membership/sign-up-form/before.jpg)
+  - After action:
+    ![After](documentation/testing/membership/sign-up-form/after.jpg)
 - Responsiveness
+  - 320px:
+    ![320px](documentation/testing/membership/responsiveness/320px.jpg)
+  - 768px:
+    ![768px](documentation/testing/membership/responsiveness/768px.jpg)
+  - 1024px:
+    ![1024px](documentation/testing/membership/responsiveness/1024px.jpg)
 
 <a name="#classes">
 
