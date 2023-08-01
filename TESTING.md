@@ -127,14 +127,52 @@ As a business I want:
 ### Book a Climb
 
 - The navbar _Home_ link navigates to the home page
+  - Before action:
+    ![Before](documentation/testing/book/home-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/book/home-nav/after.jpg)
 - The navbar _Book a Climb_ link navigates to the booking page
+  - Before action:
+    ![Before](documentation/testing/book/book-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/book/book-nav/after.jpg)
 - The navbar _Membership_ link navigates to the membership page
+  - Before action:
+    ![Before](documentation/testing/book/membership-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/book/membership-nav/after.jpg)
 - The navbar _Classes_ link navigates to the classes page
+  - Before action:
+    ![Before](documentation/testing/book/classes-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/book/classes-nav/after.jpg)
 - The navbar _About Us_ link navigates to the about page
+  - Before action:
+    ![Before](documentation/testing/book/about-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/book/about-nav/after.jpg)
 - The _Become a Member_ button navigates to the membership page
+  - Before action:
+    ![Before](documentation/testing/book/membership-button/before.jpg)
+  - After action:
+    ![After](documentation/testing/book/membership-button/after.jpg)
 - The _Book Now_ form submits to the Code Institute form dump page
+  - Before action:
+    ![Before](documentation/testing/book/book-form/before.jpg)
+  - After action:
+    ![After](documentation/testing/book/book-form/after.jpg)
 - The _Sign Up_ form submits to the Code Institute form dump page
+  - Before action:
+    ![Before](documentation/testing/book/sign-up-form/before.jpg)
+  - After action:
+    ![After](documentation/testing/book/sign-up-form/after.jpg)
 - Responsiveness
+  - 320px:
+    ![320px](documentation/testing/book/responsiveness/320px.jpg)
+  - 768px:
+    ![768px](documentation/testing/book/responsiveness/768px.jpg)
+  - 1024px:
+    ![1024px](documentation/testing/book/responsiveness/1024px.jpg)
 
 <a name="#membership">
 
