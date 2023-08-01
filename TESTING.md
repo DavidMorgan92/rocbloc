@@ -226,16 +226,62 @@ As a business I want:
 ### Classes
 
 - The navbar _Home_ link navigates to the home page
+  - Before action:
+    ![Before](documentation/testing/classes/home-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/classes/home-nav/after.jpg)
 - The navbar _Book a Climb_ link navigates to the booking page
+  - Before action:
+    ![Before](documentation/testing/classes/book-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/classes/book-nav/after.jpg)
 - The navbar _Membership_ link navigates to the membership page
+  - Before action:
+    ![Before](documentation/testing/classes/membership-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/classes/membership-nav/after.jpg)
 - The navbar _Classes_ link navigates to the classes page
+  - Before action:
+    ![Before](documentation/testing/classes/classes-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/classes/classes-nav/after.jpg)
 - The navbar _About Us_ link navigates to the about page
+  - Before action:
+    ![Before](documentation/testing/classes/about-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/classes/about-nav/after.jpg)
 - The _Book a Class_ button scrolls down to the _Classes_ header
+  - Before action:
+    ![Before](documentation/testing/classes/book-class-button/before.jpg)
+  - After action:
+    ![After](documentation/testing/classes/book-class-button/after.jpg)
 - The _1-2-1 Coaching_ button scrolls down to the _1-2-1 Coaching_ header
+  - Before action:
+    ![Before](documentation/testing/classes/coaching-button/before.jpg)
+  - After action:
+    ![After](documentation/testing/classes/coaching-button/after.jpg)
 - The first _Find out More_ button scrolls to the top of the page
+  - Before action:
+    ![Before](documentation/testing/classes/find-out-more-button-1/before.jpg)
+  - After action:
+    ![After](documentation/testing/classes/find-out-more-button-1/after.jpg)
 - The second _Find out More_ button scrolls to the top of the page
+  - Before action:
+    ![Before](documentation/testing/classes/find-out-more-button-2/before.jpg)
+  - After action:
+    ![After](documentation/testing/classes/find-out-more-button-2/after.jpg)
 - The _Sign Up_ form submits to the Code Institute form dump page
+  - Before action:
+    ![Before](documentation/testing/classes/sign-up-form/before.jpg)
+  - After action:
+    ![After](documentation/testing/classes/sign-up-form/after.jpg)
 - Responsiveness
+  - 320px:
+    ![320px](documentation/testing/classes/responsiveness/320px.jpg)
+  - 768px:
+    ![768px](documentation/testing/classes/responsiveness/768px.jpg)
+  - 1024px:
+    ![1024px](documentation/testing/classes/responsiveness/1024px.jpg)
 
 <a name="#about">
 
