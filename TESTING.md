@@ -221,53 +221,147 @@ As a business I want:
 
 ### Book a Climb
 
-- The navbar _Home_ link navigates to the home page
-  - Before action:
-    ![Before](documentation/testing/book/home-nav/before.jpg)
-  - After action:
-    ![After](documentation/testing/book/home-nav/after.jpg)
-- The navbar _Book a Climb_ link navigates to the booking page
-  - Before action:
-    ![Before](documentation/testing/book/book-nav/before.jpg)
-  - After action:
-    ![After](documentation/testing/book/book-nav/after.jpg)
-- The navbar _Membership_ link navigates to the membership page
-  - Before action:
-    ![Before](documentation/testing/book/membership-nav/before.jpg)
-  - After action:
-    ![After](documentation/testing/book/membership-nav/after.jpg)
-- The navbar _Classes_ link navigates to the classes page
-  - Before action:
-    ![Before](documentation/testing/book/classes-nav/before.jpg)
-  - After action:
-    ![After](documentation/testing/book/classes-nav/after.jpg)
-- The navbar _About Us_ link navigates to the about page
-  - Before action:
-    ![Before](documentation/testing/book/about-nav/before.jpg)
-  - After action:
-    ![After](documentation/testing/book/about-nav/after.jpg)
-- The _Become a Member_ button navigates to the membership page
-  - Before action:
-    ![Before](documentation/testing/book/membership-button/before.jpg)
-  - After action:
-    ![After](documentation/testing/book/membership-button/after.jpg)
-- The _Book Now_ form submits to the Code Institute form dump page
-  - Before action:
-    ![Before](documentation/testing/book/book-form/before.jpg)
-  - After action:
-    ![After](documentation/testing/book/book-form/after.jpg)
-- The _Sign Up_ form submits to the Code Institute form dump page
-  - Before action:
-    ![Before](documentation/testing/book/sign-up-form/before.jpg)
-  - After action:
-    ![After](documentation/testing/book/sign-up-form/after.jpg)
-- Responsiveness
-  - 320px:
-    ![320px](documentation/testing/book/responsiveness/320px.jpg)
-  - 768px:
-    ![768px](documentation/testing/book/responsiveness/768px.jpg)
-  - 1024px:
-    ![1024px](documentation/testing/book/responsiveness/1024px.jpg)
+**1.** The navbar _Home_ link navigates to the home page
+<details>
+   <summary>Before Action</summary>
+
+   ![Before](documentation/testing/book/home-nav/before.jpg)
+   
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/book/home-nav/after.jpg)
+   
+</details>
+
+**2.** The navbar _Book a Climb_ link navigates to the booking page
+<details>
+   <summary>Before Action</summary>
+
+   ![Before](documentation/testing/book/book-nav/before.jpg)
+   
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/book/book-nav/after.jpg)
+   
+</details>
+    
+**3.** The navbar _Membership_ link navigates to the membership page
+<details>
+   <summary>Before Action</summary>
+   
+   ![Before](documentation/testing/book/membership-nav/before.jpg)
+
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/book/membership-nav/after.jpg)
+   
+</details>
+    
+**4.** The navbar _Classes_ link navigates to the classes page
+<details>
+   <summary>Before Action</summary>
+
+   ![Before](documentation/testing/book/classes-nav/before.jpg)
+   
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/book/classes-nav/after.jpg)
+   
+</details>
+    
+**5.** The navbar _About Us_ link navigates to the about page
+<details>
+   <summary>Before Action</summary>
+
+   ![Before](documentation/testing/book/about-nav/before.jpg)
+   
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/book/about-nav/after.jpg)
+   
+</details>
+    
+**6.** The _Become a Member_ button navigates to the membership page
+<details>
+   <summary>Before Action</summary>
+
+   ![Before](documentation/testing/book/membership-button/before.jpg)
+   
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/book/membership-button/after.jpg)
+   
+</details>
+    
+**7.** The _Book Now_ form submits to the Code Institute form dump page
+<details>
+   <summary>Before Action</summary>
+
+   ![Before](documentation/testing/book/book-form/before.jpg)
+   
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/book/book-form/after.jpg)
+   
+</details>
+    
+**8.** The _Sign Up_ form submits to the Code Institute form dump page
+<details>
+   <summary>Before Action</summary>
+   
+   ![Before](documentation/testing/book/sign-up-form/before.jpg)
+
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/book/sign-up-form/after.jpg)
+   
+</details>
+
+**9.** Responsiveness
+<details>
+   <summary>320px</summary>
+
+   ![320px](documentation/testing/book/responsiveness/320px.jpg)
+   
+</details>
+
+<details>
+   <summary>768px</summary>
+
+   ![768px](documentation/testing/book/responsiveness/768px.jpg)
+   
+</details>
+
+<details>
+   <summary>1024px</summary>
+
+   ![1024px](documentation/testing/book/responsiveness/1024px.jpg)
+   
+</details>
 
 ### Membership
 
