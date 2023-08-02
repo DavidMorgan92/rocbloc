@@ -63,58 +63,161 @@ As a business I want:
 
 ### Home
 
-- The navbar _Home_ link navigates to the home page
-  - Before action:
-    ![Before](documentation/testing/home/home-nav/before.jpg)
-  - After action:
-    ![After](documentation/testing/home/home-nav/after.jpg)
-- The navbar _Book a Climb_ link navigates to the booking page
-  - Before action:
-    ![Before](documentation/testing/home/book-nav/before.jpg)
-  - After action:
-    ![After](documentation/testing/home/book-nav/after.jpg)
-- The navbar _Membership_ link navigates to the membership page
-  - Before action:
-    ![Before](documentation/testing/home/membership-nav/before.jpg)
-  - After action:
-    ![After](documentation/testing/home/membership-nav/after.jpg)
-- The navbar _Classes_ link navigates to the classes page
-  - Before action:
-    ![Before](documentation/testing/home/classes-nav/before.jpg)
-  - After action:
-    ![After](documentation/testing/home/classes-nav/after.jpg)
-- The navbar _About Us_ link navigates to the about page
-  - Before action:
-    ![Before](documentation/testing/home/about-nav/before.jpg)
-  - After action:
-    ![After](documentation/testing/home/about-nav/after.jpg)
-- The _Book a Climb_ button navigates to the booking page
-  - Before action:
-    ![Before](documentation/testing/home/book-button/before.jpg)
-  - After action:
-    ![After](documentation/testing/home/book-button/after.jpg)
-- The _Book a Class_ button navigates to the classes page
-  - Before action:
-    ![Before](documentation/testing/home/classes-button/before.jpg)
-  - After action:
-    ![After](documentation/testing/home/classes-button/after.jpg)
-- The _Sign Up_ button scrolls the page to the sign up form
-  - Before action:
-    ![Before](documentation/testing/home/sign-up-button/before.jpg)
-  - After action:
-    ![After](documentation/testing/home/sign-up-button/after.jpg)
-- The _Sign Up_ form submits to the Code Institute form dump page
-  - Before action:
-    ![Before](documentation/testing/home/sign-up-form/before.jpg)
-  - After action:
-    ![After](documentation/testing/home/sign-up-form/after.jpg)
-- Responsiveness
-  - 320px:
-    ![320px](documentation/testing/home/responsiveness/320px.jpg)
-  - 768px:
-    ![768px](documentation/testing/home/responsiveness/768px.jpg)
-  - 1024px:
-    ![1024px](documentation/testing/home/responsiveness/1024px.jpg)
+**1.** The navbar _Home_ link navigates to the home page
+<details>
+   <summary>Before Action</summary>
+     
+   ![Before](documentation/testing/home/home-nav/before.jpg)
+
+</details>
+
+<details>
+     <summary>After Action</summary>
+     
+   ![After](documentation/testing/home/home-nav/after.jpg)
+
+</details>
+
+**2.** The navbar _Book a Climb_ link navigates to the booking page
+<details>
+   <summary>Before Action</summary>
+
+   ![Before](documentation/testing/home/book-nav/before.jpg)
+     
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/home/book-nav/after.jpg)
+     
+</details>
+
+**3.** The navbar _Membership_ link navigates to the membership page
+<details>
+   <summary>Before Action</summary>
+
+   ![Before](documentation/testing/home/membership-nav/before.jpg)
+
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/home/membership-nav/after.jpg)
+     
+</details>
+
+**4.** The navbar _Classes_ link navigates to the classes page
+<details>
+   <summary>Before Action</summary>
+   
+   ![Before](documentation/testing/home/classes-nav/before.jpg)
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/home/classes-nav/after.jpg)
+   
+</details>
+
+**5.** The navbar _About Us_ link navigates to the about page
+<details>
+   <summary>Before Action</summary>
+   
+   ![Before](documentation/testing/home/about-nav/before.jpg)
+   
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/home/about-nav/after.jpg)
+   
+</details>
+    
+**6.** The _Book a Climb_ button navigates to the booking page
+<details>
+   <summary>Before Action</summary>
+
+   ![Before](documentation/testing/home/book-button/before.jpg)
+   
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/home/book-button/after.jpg)
+   
+</details>
+    
+**7.** The _Book a Class_ button navigates to the classes page
+<details>
+   <summary>Before Action</summary>
+   
+   ![Before](documentation/testing/home/classes-button/before.jpg)
+   
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/home/classes-button/after.jpg)
+   
+</details>
+    
+**8.** The _Sign Up_ button scrolls the page to the sign up form
+<details>
+   <summary>Before Action</summary>
+
+   ![Before](documentation/testing/home/sign-up-button/before.jpg)
+   
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/home/sign-up-button/after.jpg)
+    
+</details>
+    
+**9.** The _Sign Up_ form submits to the Code Institute form dump page
+<details>
+   <summary>Before Action</summary>
+
+   ![Before](documentation/testing/home/sign-up-form/before.jpg)
+   
+</details>
+
+<details>
+   <summary>After Action</summary>
+
+   ![After](documentation/testing/home/sign-up-form/after.jpg)
+   
+</details>
+    
+**10.** Responsiveness
+<details>
+   <summary>320px</summary>
+
+   ![320px](documentation/testing/home/responsiveness/320px.jpg)
+   
+</details>
+
+<details>
+   <summary>768px</summary>
+
+   ![768px](documentation/testing/home/responsiveness/768px.jpg)
+   
+</details>
+
+<details>
+   <summary>1024px</summary>
+
+   ![1024px](documentation/testing/home/responsiveness/1024px.jpg)
+   
+</details>
 
 ### Book a Climb
 
