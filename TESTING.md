@@ -288,13 +288,52 @@ As a business I want:
 ### About Us
 
 - The navbar _Home_ link navigates to the home page
+  - Before action:
+    ![Before](documentation/testing/about/home-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/about/home-nav/after.jpg)
 - The navbar _Book a Climb_ link navigates to the booking page
+  - Before action:
+    ![Before](documentation/testing/about/book-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/about/book-nav/after.jpg)
 - The navbar _Membership_ link navigates to the membership page
+  - Before action:
+    ![Before](documentation/testing/about/membership-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/about/membership-nav/after.jpg)
 - The navbar _Classes_ link navigates to the classes page
+  - Before action:
+    ![Before](documentation/testing/about/classes-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/about/classes-nav/after.jpg)
 - The navbar _About Us_ link navigates to the about page
+  - Before action:
+    ![Before](documentation/testing/about/about-nav/before.jpg)
+  - After action:
+    ![After](documentation/testing/about/about-nav/after.jpg)
 - The _Contact Us_ form submits to the Code Institute form dump page
+  - Before action:
+    ![Before](documentation/testing/about/contact-form/before.jpg)
+  - After action:
+    ![After](documentation/testing/about/contact-form/after.jpg)
+- The _icons8.com_ link opens a new tab to [icons8.com](https://icons8.com)
+  - Before action:
+    ![Before](documentation/testing/about/icon-link/before.jpg)
+  - After action:
+    ![After](documentation/testing/about/icon-link/after.jpg)
 - The _Sign Up_ form submits to the Code Institute form dump page
+  - Before action:
+    ![Before](documentation/testing/about/sign-up-form/before.jpg)
+  - After action:
+    ![After](documentation/testing/about/sign-up-form/after.jpg)
 - Responsiveness
+  - 320px:
+    ![320px](documentation/testing/about/responsiveness/320px.jpg)
+  - 768px:
+    ![768px](documentation/testing/about/responsiveness/768px.jpg)
+  - 1024px:
+    ![1024px](documentation/testing/about/responsiveness/1024px.jpg)
 
 <a name="#automated-testing"></a>
 
