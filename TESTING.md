@@ -6,17 +6,15 @@
 2. [Manual Testing](#manual-testing)
 
    - [Home](#home)
-   - [Book a Climb](#book)
+   - [Book a Climb](#book-a-climb)
    - [Membership](#membership)
    - [Classes](#classes)
-   - [About Us](#about)
+   - [About Us](#about-us)
 
 3. [Automated Testing](#automated-testing)
 
    - [Lighthouse Scores](#lighthouse-scores)
    - [Code Validation](#code-validation)
-
-<a name="#testing-user-stores"></a>
 
 ## Testing User Stories
 
@@ -61,11 +59,7 @@ As a business I want:
 
    - There is a contact form on the about page.
 
-<a name="#manual-testing"></a>
-
 ## Manual Testing
-
-<a name="#home">
 
 ### Home
 
@@ -122,8 +116,6 @@ As a business I want:
   - 1024px:
     ![1024px](documentation/testing/home/responsiveness/1024px.jpg)
 
-<a name="#book">
-
 ### Book a Climb
 
 - The navbar _Home_ link navigates to the home page
@@ -174,8 +166,6 @@ As a business I want:
   - 1024px:
     ![1024px](documentation/testing/book/responsiveness/1024px.jpg)
 
-<a name="#membership">
-
 ### Membership
 
 - The navbar _Home_ link navigates to the home page
@@ -220,8 +210,6 @@ As a business I want:
     ![768px](documentation/testing/membership/responsiveness/768px.jpg)
   - 1024px:
     ![1024px](documentation/testing/membership/responsiveness/1024px.jpg)
-
-<a name="#classes">
 
 ### Classes
 
@@ -283,8 +271,6 @@ As a business I want:
   - 1024px:
     ![1024px](documentation/testing/classes/responsiveness/1024px.jpg)
 
-<a name="#about">
-
 ### About Us
 
 - The navbar _Home_ link navigates to the home page
@@ -335,11 +321,7 @@ As a business I want:
   - 1024px:
     ![1024px](documentation/testing/about/responsiveness/1024px.jpg)
 
-<a name="#automated-testing"></a>
-
 ## Automated Testing
-
-<a name="#lighthouse-scores"></a>
 
 ### Lighthouse Scores
 
@@ -348,8 +330,6 @@ As a business I want:
 - [Membership](documentation/lighthouse/membership.pdf)
 - [Classes](documentation/lighthouse/classes.pdf)
 - [About](documentation/lighthouse/about.pdf)
-
-<a name="#code-validation"></a>
 
 ### Code Validation
 
