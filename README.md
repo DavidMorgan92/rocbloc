@@ -108,9 +108,9 @@ The website needs to enable the site manager to:
 - Gather information about contact requests
 
 <details>
-    <summary>Strategy Table</summary>
+<summary>Strategy Table</summary>
 
-    ![Strategy Table](documentation/images/strategy-table.jpg)
+![Strategy Table](documentation/images/strategy-table.jpg)
 
 </details>
 
@@ -137,9 +137,9 @@ The scope plane is about defining requirements based on the goals established on
 The information above was then organized in a hierarchical tree structure, a site map, showing how users can navigate through the site with ease and efficiency, with the following results:
 
 <details>
-    <summary>Site Map</summary>
+<summary>Site Map</summary>
 
-    ![Site Map](documentation/images/site-map.png)
+![Site Map](documentation/images/site-map.png)
 
 </details>
 
@@ -148,36 +148,37 @@ The information above was then organized in a hierarchical tree structure, a sit
 Wireframes were made to showcase the appearance of the site pages while keeping a positive user experience in mind. The wireframes were created using a desktop version of Balsamiq.
 
 <details>
-    <summary>Home Page Wireframe</summary>
+<summary>Home Page Wireframe</summary>
 
-    ![Home](documentation/images/home.png)
+![Home](documentation/images/home.png)
 
 </details>
 
 <details>
-    <summary>Booking Page Wireframe</summary>
+<summary>Booking Page Wireframe</summary>
+
+![Book a Climb](documentation/images/book-a-climb.png)
     
-    ![Book a Climb](documentation/images/book-a-climb.png)
 </details>
 
 <details>
-    <summary>Membership Page Wireframe</summary>
+<summary>Membership Page Wireframe</summary>
 
-    ![Membership](documentation/images/membership.png)
-
-</details>
-
-<details>
-    <summary>Classes Page Wireframe</summary>
-
-    ![Classes](documentation/images/classes.png)
+![Membership](documentation/images/membership.png)
 
 </details>
 
 <details>
-    <summary>About Page Wireframe</summary>
+<summary>Classes Page Wireframe</summary>
 
-    ![About Us](documentation/images/about-us.png)
+![Classes](documentation/images/classes.png)
+
+</details>
+
+<details>
+<summary>About Page Wireframe</summary>
+
+![About Us](documentation/images/about-us.png)
 
 </details>
 
