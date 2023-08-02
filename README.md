@@ -22,12 +22,12 @@
 3. [Features](#features)
 
    - [Design Features](#design-features)
-   - [Features Yet To Be Implemented](#features-to-implement)
+   - [Features Yet To Be Implemented](#features-yet-to-be-implemented)
 
 4. [Technologies Used](#technologies-used)
 
    - [Languages Used](#languages-used)
-   - [Frameworks, Libraries & Programs Used](#frameworks-used)
+   - [Frameworks, Libraries & Programs Used](#frameworks-libraries-programs-used)
 
 5. [Testing](#testing)
 
@@ -35,11 +35,7 @@
 
 6. [Deployment](#deployment)
 
-<a name="#ux"></a>
-
 ## UX
-
-<a name="#ideal-user-demographic"></a>
 
 ### Ideal User Demographic
 
@@ -48,19 +44,13 @@ The ideal user for this website is:
 - A new customer
 - A current customer
 
-<a name="#project-goals"></a>
-
 ### Project Goals
 
 The site's users are gym members and potential members, who want to know more about the gym and its procedures.
 
-<a name="#business-goals"></a>
-
 ### Business Goals
 
 The gym is interested in attracting and retaining members.
-
-<a name="#user-stories"></a>
 
 ### User Stories
 
@@ -77,8 +67,6 @@ As a business I want:
 2. To allow customers to book and pay for the services offered
 3. To allow customers to sign up to our mailing list
 4. To provide a point of contact for customers
-
-<a name="#development-planes"></a>
 
 ### Development Planes
 
@@ -169,29 +157,19 @@ Wireframes were made to showcase the appearance of the site pages while keeping 
 
 ![About Us](documentation/images/about-us.png)
 
-<a name="#design"></a>
-
 ## Design
-
-<a name="#structure"></a>
 
 ### Structure
 
 Overall website structure and design was inspired by https://www.theclimbinghangar.com/
 
-<a name="#colour-palette"></a>
-
 ### Colour Palette
 
 [This colour palette](https://coolors.co/palette/e63946-f1faee-a8dadc-457b9d-1d3557) was chosen for its strong red and selection of contrasting blues.
 
-<a name="#fonts"></a>
-
 ### Fonts
 
 The entire website uses the [Kanit regular 400](https://fonts.google.com/specimen/Kanit) font from Google Fonts
-
-<a name="#imagery"></a>
 
 ### Imagery
 
@@ -227,11 +205,7 @@ Image from https://www.shutterstock.com/image-photo/couple-athletes-climber-movi
 
 Image from https://icons8.com/icons/set/bouldering under licence https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8
 
-<a name="#features"></a>
-
 ## Features
-
-<a name="#design-features"></a>
 
 ### Design Features
 
@@ -278,8 +252,6 @@ The about page consists of the following sections:
 - _Contact form_ - This section contains a form allowing a user to send a message to the company's staff. The form's controls display in two columns on wide screens and one column on narrow screens.
 - _Media attribution_ - This section displays attribution for media used in the website to comply with the usage terms of the media's licence agreement.
 
-<a name="#features-to-implement"></a>
-
 ### Features Yet To Be Implemented
 
 Below is a list of features that are not currently implemented due to time constraints.
@@ -295,18 +267,12 @@ Below is a list of features that are not currently implemented due to time const
 - Membership
   - Accept payment through the website
 
-<a name="#technologies-used"></a>
-
 ## Technologies Used
-
-<a name="#languages-used"></a>
 
 ### Languages Used
 
 - HTML5
 - CSS3
-
-<a name="#frameworks-used"></a>
 
 ### Frameworks, Libraries & Programs Used
 
@@ -329,13 +295,9 @@ Below is a list of features that are not currently implemented due to time const
 - [Icons8](https://icons8.com/)
   - The website's favicon was provided by Icons8
 
-<a name="#testing"></a>
-
 ## Testing
 
 See the [testing file](TESTING.md) for testing information.
-
-<a name="#deployment"></a>
 
 ## Deployment
 
