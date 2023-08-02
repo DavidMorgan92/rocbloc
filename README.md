@@ -107,7 +107,12 @@ The website needs to enable the site manager to:
 - Gather information about newsletter sign-up requests
 - Gather information about contact requests
 
-![Strategy Table](documentation/images/strategy-table.jpg)
+<details>
+    <summary>Strategy Table</summary>
+
+    ![Strategy Table](documentation/images/strategy-table.jpg)
+
+</details>
 
 #### Scope
 
@@ -131,31 +136,50 @@ The scope plane is about defining requirements based on the goals established on
 
 The information above was then organized in a hierarchical tree structure, a site map, showing how users can navigate through the site with ease and efficiency, with the following results:
 
-![Site Map](documentation/images/site-map.png)
+<details>
+    <summary>Site Map</summary>
+
+    ![Site Map](documentation/images/site-map.png)
+
+</details>
 
 #### Skeleton
 
 Wireframes were made to showcase the appearance of the site pages while keeping a positive user experience in mind. The wireframes were created using a desktop version of Balsamiq.
 
-##### Home
+<details>
+    <summary>Home Page Wireframe</summary>
 
-![Home](documentation/images/home.png)
+    ![Home](documentation/images/home.png)
 
-##### Book a Climb
+</details>
 
-![Book a Climb](documentation/images/book-a-climb.png)
+<details>
+    <summary>Booking Page Wireframe</summary>
+    
+    ![Book a Climb](documentation/images/book-a-climb.png)
+</details>
 
-##### Membership
+<details>
+    <summary>Membership Page Wireframe</summary>
 
-![Membership](documentation/images/membership.png)
+    ![Membership](documentation/images/membership.png)
 
-##### Classes
+</details>
 
-![Classes](documentation/images/classes.png)
+<details>
+    <summary>Classes Page Wireframe</summary>
 
-##### About Us
+    ![Classes](documentation/images/classes.png)
 
-![About Us](documentation/images/about-us.png)
+</details>
+
+<details>
+    <summary>About Page Wireframe</summary>
+
+    ![About Us](documentation/images/about-us.png)
+
+</details>
 
 ## Design
 
