@@ -27,7 +27,7 @@
 4. [Technologies Used](#technologies-used)
 
    - [Languages Used](#languages-used)
-   - [Frameworks, Libraries & Programs Used](#frameworks-libraries-programs-used)
+   - [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
 5. [Testing](#testing)
 
